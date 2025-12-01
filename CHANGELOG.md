@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/FTBTeam/keycloak-discord/compare/v1.0.1...v1.1.0) (2025-12-01)
+
+
+### Features
+
+* **release:** updated java ([5fbfac3](https://github.com/FTBTeam/keycloak-discord/commit/5fbfac3fb7d9dd82ada89d0f65bf90b852234ad9))
+
 ## [1.0.1](https://github.com/FTBTeam/keycloak-discord/compare/v1.0.0...v1.0.1) (2025-12-01)
 
 
