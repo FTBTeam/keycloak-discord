@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/FTBTeam/keycloak-discord/compare/v1.0.0...v1.0.1) (2025-12-01)
+
+
+### Bug Fixes
+
+* releases ([dae36e9](https://github.com/FTBTeam/keycloak-discord/commit/dae36e956f5e275f9ce76e52c8a83ac01d78b006))
+
 # 1.0.0 (2025-12-01)
 
 
