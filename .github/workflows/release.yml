@@ -27,6 +27,10 @@ jobs:
 
       - name: Test
         run: mvn -B test
+        
+      - name: Build package
+        run: mvn -B package -DskipTests
+
 
       - name: Semantic release
         id: semantic
