@@ -29,7 +29,13 @@
       "@semantic-release/github",
       {
         "successComment": false,
-        "failTitle": false
+        "failTitle": false,
+"assets": [
+      {
+        "path": "target/*.jar",
+        "label": "Keycloak Discord Extension"
+      }
+    ]
       }
     ]
   ]
